@@ -1,4 +1,4 @@
-# ML-Coursera-Course-Own-Solutions
+# Exercise 3 -- Week 4 Description and Solutions
 This exercise has two parts:
 -- in part 1 I implemented an one vs all logistic regression algorithm to recognize hand-written digits (from 1 to 10). 
 First, we train the algorithm on 5000 data points (images) in order to obtain 10 hypotheses (in a one vs all fashion). 
