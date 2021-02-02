@@ -1,5 +1,5 @@
 # ML-Course
-These are my (private) solutions for the Machine Learning Course offered on . 
+These are my (private) solutions for the Machine Learning Course offered on Coursera and at Stanford and taught by Prof. Ng . 
 
 There are 8 programming exercises / projects in this course. 
 I upload my solutions to each exercise separately together with a driver for each exercise. 
