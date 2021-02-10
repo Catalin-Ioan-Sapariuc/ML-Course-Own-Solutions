@@ -1,6 +1,5 @@
 # ML-Course
 These are my (private) solutions for the Machine Learning Course offered on Coursera and at Stanford and taught by Prof. Ng . 
 
-There are 8 programming exercises / projects in this course. 
-I upload my solutions to each exercise separately together with a driver for each exercise. 
-The driver is important as it walks through the solution of the exercise and it describes the exact requirements, the given data and the goals. 
+In this week's exercise, we consider a small non-linear data set, and we study ways to improve the initial liniar regression, first by applying a polynomial
+regression of degree 8 (although the implementation allows any degree), normalizing the new features, and then following a bias- variance study in order to find the best regularization parameter lambda which minimizes the cross-validation error. 
