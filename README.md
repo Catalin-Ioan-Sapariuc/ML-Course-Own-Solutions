@@ -10,3 +10,4 @@ in the sense that these particular values of C and sigma^2 give the lowest CV er
 or absence of key words found in the spam vocabulary. Then , an SVM classifier is trained on these x - features, and tested on test emails. 
 A test accuracy of 98.5% has been obtained. 
 
+The driver file driver-ex6.doc will explain the steps performed. 
